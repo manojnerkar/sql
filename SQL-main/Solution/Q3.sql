@@ -1,0 +1,1 @@
+SELECT COUNT(Sname) AS NumberOfSalesPerson FROM Sales.SalesPeople WHERE City = 'Newyork';
